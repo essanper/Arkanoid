@@ -1,7 +1,7 @@
 # arkanoid
 game arcade - personal project
 
-This is a personal project with JavaCript and a little JQuery.
+This is a personal project with JavaScript and a little JQuery.
 
 I developed this project in three week, the objective of this project was learning JavaScript and JQuery for develop the game Arkanoid.
 
